@@ -1,6 +1,6 @@
 # Hello Everyone! 
 
-Just call me **Angga**.<br>
+My name is **Aditya Wahib**.<br>
 
 I'm a **Student in Dicoding Asah Program** in [Dicoding](https://www.dicoding.com/).<br>
 
