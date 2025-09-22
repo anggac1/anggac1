@@ -1,6 +1,6 @@
 # Hello Everyone! 
 
-My name is **Aditya Wahib**.<br>
+My name is **Aditya Wahib Erlangga**.<br>
 
 I'm a **Student in Dicoding Asah Program** in [Dicoding](https://www.dicoding.com/).<br>
 
